@@ -1,4 +1,4 @@
 # Sinif-basari-durumu
 ## Sınıf ortalama hesaplama programı
 
-[Patika](www.patika.dev) --Ödevidir
+[Patika](https://www.patika.dev/tr) --Ödevidir
